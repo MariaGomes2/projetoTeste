@@ -9,7 +9,7 @@ class Aluno {
     }
 
 }
-
+//teste
 const alunos = [];
 
 function cadastrarAluno() {
